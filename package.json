@@ -1,0 +1,13 @@
+{
+  "name": "veetcode",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.3",
+    "@types/bun": "latest",
+    "vitest": "^2.1.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
